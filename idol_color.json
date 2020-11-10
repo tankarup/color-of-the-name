@@ -1,0 +1,1089 @@
+{
+  "head": {
+    "vars": [ "o" , "color" , "title" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "o": { "type": "literal" , "value": "佐久間まゆ" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "D1197B" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "村上巴" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "D42E38" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "島原エレナ" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "9BCE92" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "向井拓海" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "A90582" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "七尾百合子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "C7B83C" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "速水奏" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "0D386D" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "依田芳乃" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "C7BAB4" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "天海春香" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E22B30" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "姫川友紀" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E9870C" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "桜庭薫" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "1945BA" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "百瀬莉緒" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F19591" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "ピエール" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "8BDC63" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "水本ゆかり" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E8BAD6" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "四条貴音" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "A6126A" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "葛之葉雨彦" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "111721" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "神崎蘭子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "7E3188" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "若里春名" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "71D448" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "水瀬伊織" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FD99E1" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "松永涼" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "202449" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "鷹富士茄子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "5C068F" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "喜多見柚" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EADC62" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "宮尾美也" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "D7A96B" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "周防桃子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EFB864" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "月岡恋鐘" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F94CAD" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "龍崎薫" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F4D956" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "箱崎星梨花" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "ED90BA" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "硲道夫" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "436CA9" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "南条光" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "ED0829" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "双海亜美" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FFE43F" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "高坂海美" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E9739B" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "市川雛菜" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FFC639" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "大和亜季" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "276E4E" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "園田智代子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F93B90" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "島村卯月" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EC7092" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "天空橋朋花" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "BEE3E3" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "伊集院北斗" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "1C23AA" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "難波笑美" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E9463D" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "堀裕子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E89B55" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "福丸小糸" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "7967C3" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "樋口円香" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "BE1E3E" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "鷹城恭二" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "6AC4E9" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "徳川まつり" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "5ABFB7" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "三船美優" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "01AAA5" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "緒方智絵里" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "69B64C" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "市原仁奈" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F7DE8C" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "菊地真" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "515558" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "椎名法子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EA495B" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "大槻唯" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EFB817" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "白坂小梅" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "AAC5E2" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "舞田類" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F5D24B" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "九十九一希" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "CF9E51" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "望月杏奈" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "7E6CA8" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "日野茜" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EA4F21" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "双葉杏" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F19DB4" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "東雲荘一郎" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "02946C" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "永吉昴" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "AEB49C" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "如月千早" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "2743D2" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "三浦あずさ" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "9238BE" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "舞浜歩" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E25A9B" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "蒼井享介" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "23CD7A" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "久川颯" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "7ADAD6" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "小早川紗枝" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "D967A3" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "田中摩美々" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "A846FB" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "我那覇響" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "01ADB9" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "黒野玄武" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "0F0C9F" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "城ヶ崎莉嘉" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F7D30D" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "乙倉悠貴" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F2C0C1" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "福田のり子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "ECEB70" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "横山奈緒" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "788BC5" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "本田未央" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F6B128" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "十時愛梨" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E9425C" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "幽谷霧子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "D9F2DD" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "大河タケル" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "0E0C9F" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "日高愛" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E85786" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "DearlyStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "秋月涼" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "70B449" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "菊地真" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "515558" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "黛冬優子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "5CE626" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "蒼井悠介" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FEE806" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "四条貴音" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "A6126A" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "柏木翼" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "3BAF29" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "一ノ瀬志希" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "A01B50" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "芹沢あさひ" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F30100" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "棟方愛海" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "C82F7F" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "桜守歌織" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "274079" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "所恵美" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "454341" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "最上静香" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "6495CF" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "萩原雪歩" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "D3DDE9" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "双海真美" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FFE43F" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "渡辺みのり" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FA90A2" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "兜大吾" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E41C1A" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "浜口あやめ" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "471C87" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "御手洗翔太" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "94D509" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "冬美旬" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "1845B9" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "木村龍" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EE7220" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "小日向美穂" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "C64796" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "上条春菜" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "59B7DB" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "ジュリア" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "D7385F" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "相葉夕美" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EAE28D" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "萩原雪歩" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "D3DDE9" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "及川雫" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FFFFFF" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "道明寺歌鈴" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "CC252D" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "有栖川夏葉" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "90E667" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "真壁瑞希" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "99B7DC" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "高山紗代子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "7F6575" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "脇山珠美" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "3A75BB" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "松田亜利沙" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "B54461" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "春日未来" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EA5B76" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "神谷幸広" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F09079" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "双海真美" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FFE43F" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "城ヶ崎美嘉" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F4982B" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "片桐早苗" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E94D1A" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "関裕美" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F8C5C1" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "高森藍子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "C5DD7F" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "櫻木真乃" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FFBAD6" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "川島瑞樹" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "3F59A6" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "西城樹里" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FFCB13" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "浅倉透" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "50D0D0" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "安部菜々" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E64A79" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "小宮果穂" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E75029" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "古論クリス" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "1FC1DD" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "前川みく" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "CA113A" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "野々原茜" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EB613F" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "櫻井桃華" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EF93BC" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "森久保乃々" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "97D3D3" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "天道輝" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E31C1A" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "アナスタシア" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "B0C5E4" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "三峰結華" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "3B91C4" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "大崎甘奈" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F54275" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "藤原肇" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "7271B3" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "猫柳キリオ" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F7BD05" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "白石紬" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EBE1FF" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "輿水幸子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "CCAACF" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "三浦あずさ" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "9238BE" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "高槻やよい" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F39939" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "上田鈴帆" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "C9870F" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "双海亜美" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FFE43F" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "北村想楽" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "477525" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "佐藤心" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E44E8E" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "山下次郎" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EE7602" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "秋月涼" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "B2D468" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "DearlyStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "アスラン=BBⅡ世" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "606CB2" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "北条加蓮" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "38BAB8" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "伊吹翼" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FED552" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "水瀬伊織" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FD99E1" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "佐竹美奈子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "58A6DC" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "白菊ほたる" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "D162CB" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "早坂美玲" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "B72089" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "エミリー" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "554171" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "大崎甜花" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E75BEC" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "馬場このみ" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F1BECB" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "久川凪" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F7A1BA" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "新田美波" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "6DBCDB" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "高槻やよい" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F39939" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "木下ひなた" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "D1342C" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "宮本フレデリカ" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "9E1861" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "藤本里奈" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "653A2A" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "八宮めぐる" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FFE012" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "佐々木千枝" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "006AB6" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "諸星きらり" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F8CA02" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "五十嵐響子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F567C6" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "神谷奈緒" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "8D75B3" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "秋月律子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "01A860" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "豊川風花" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "7278A8" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "北上麗花" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "6BB6B0" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "荒木比奈" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "80C260" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "大神環" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "EE762E" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "結城晴" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "45BDB4" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "紅井朱雀" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E63C2E" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "和泉愛依" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FF00FF" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "握野英雄" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "57B3E5" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "二宮飛鳥" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "552A7C" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "円城寺道流" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "CA9111" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "田中琴葉" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "92CFBB" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "岡村直央" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "1F1451" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "神楽麗" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "3D5AC8" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "水谷絵理" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "00ADB9" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "DearlyStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "北沢志保" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "AFA690" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "塩見周子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "DEE2EB" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "姫野かのん" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F7B5C4" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "信玄誠司" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "78853A" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "如月千早" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "2743D2" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "二階堂千鶴" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F19557" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "水嶋咲" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FA7EB4" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "多田李衣菜" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "006DB2" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "喜多日菜子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F4D059" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "我那覇響" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "01ADB9" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "木村夏樹" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "55565A" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "清澄九郎" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "79A5DF" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "風野灯織" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "144384" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "秋月律子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "01A860" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "渋谷凛" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "1C90CD" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "華村翔真" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "7664A0" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "篠宮可憐" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "B63B40" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "星輝子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "A21D3C" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "星井美希" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "B4E04B" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "高垣楓" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "33D5AC" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "秋山隼人" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FE6B02" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "卯月巻緒" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F8C559" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "牙崎漣" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "AC162A" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "天ヶ瀬冬馬" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F32333" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "橘志狼" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "D13037" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "天海春香" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "E22B30" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "765AS" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "杜野凛世" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "84C0EA" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "都築圭" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "C5A6E2" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "矢吹可奈" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F5AD3B" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "白瀬咲耶" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "006047" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "赤城みりあ" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F8C715" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "桑山千雪" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FBFBFB" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "283Pro" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "三村かな子" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F4ABB4" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "榊夏来" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "24CAD2" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "星井美希" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "B4E04B" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "1st Vision" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "橘ありす" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "5881C1" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "中谷育" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F7E78E" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "伊瀬谷四季" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "F125C1" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "315ProIdols" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "中野有香" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "CB78B0" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "CinderellaGirls" }
+      } ,
+      {
+        "o": { "type": "literal" , "value": "ロコ" } ,
+        "color": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#hexBinary" , "value": "FFF03C" } ,
+        "title": { "type": "literal" , "xml:lang": "en" , "value": "MillionStars" }
+      }
+    ]
+  }
+}

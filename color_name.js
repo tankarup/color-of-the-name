@@ -79,7 +79,8 @@ function init(){
     }
 
     const lightness = chroma(color).get('hsl.l');
-    const hue = chroma(color).get('hsl.h');
+    let hue = chroma(color).get('hsl.h');
+    if (isNaN(hue)) hue = 0; //
     const font_color = chroma.contrast(color, 'white') > chroma.contrast(color, 'black') ? 'white' : 'black';
 
 
@@ -102,8 +103,9 @@ function init(){
       hue: hue,
       font_color: font_color,
     });
-
   }
+  
+
   //ランダムに並び替えてみる
   color_list.sort(function(a, b) { return Math.random() > 0.5 ? 1 : -1; });
   refresh_color_list();

@@ -3,23 +3,84 @@ let palettes = [];
 
 let color_list = [];
 
+function sort_color_list(key){
+  console.log(key);
+  color_list.sort(function(a,b){
+    if( a[key] < b[key] ) return -1;
+    if( a[key] > b[key] ) return 1;
+    //keyが同じ値だったら、次に色相で並べ替え
+    if (a['hue'] < b['hue']) return -1;
+    if (a['hue'] > b['hue']) return 1;
+    return 0;
+  });
+  refresh_color_list();
+}
+
+function init_menu(){
+  let menu_html = '';
+
+  menus = [
+    ['label', 'アイドル名'],
+    ['title', '事務所'],
+    ['wa_name', '和名'],
+    ['you_name', '洋名'],
+    ['hue', '色相']
+  ];
+  for (let menu of menus){
+    const label = menu[1];
+    const id = menu[0];
+    menu_html += `<span class="dropdown-item" onclick="sort_color_list(\'${id}\');">${label}</span>`;
+    
+  }
+  document.getElementById('dropdown-menu-sort').innerHTML = menu_html;
+}
+
+function refresh_color_list(){
+
+  let colors_html = '';
+  colors_html += '<table class="table">';
+  
+  for (let item of color_list){
+
+
+
+    colors_html += `
+    <tr style="color: ${item.font_color}; text-align: center;">
+      <td style="background-color: ${item.color}; font-family: serif;">${item.label}</td>
+      <td style="background-color: ${item.color}; font-family: serif;">${item.wa_name}</td>
+      <td style="background-color: ${item.color}; font-family: serif;">${item.you_name}</td>
+    </tr>
+    `;
+  }
+  colors_html += '</table>';
+  document.getElementById('colors').innerHTML = colors_html;
+}
+
 function init(){
+  init_menu();
+
+  color_list  = [];
 
   const colorClassifiers = [];
   for (let i = 0; i < palettes.length; i++){
     colorClassifiers[i] = new ColorClassifier(palettes[i]);
   }
 
-  let colors_html = '';
-  colors_html += '<table class="table">';
+
   for (let idol of idols){
 
     const color = idol[2];
     const label = idol[0];
     const title = idol[1];
 
+    //765ASと1st visionが被るのでスキップ
+    if (title == '1st Vision'){
+      continue;
+    }
+
     const lightness = chroma(color).get('hsl.l');
-    const font_color = lightness > 0.6 ? 'black' : 'white';
+    const hue = chroma(color).get('hsl.h');
+    const font_color = chroma.contrast(color, 'white') > chroma.contrast(color, 'black') ? 'white' : 'black';
 
 
     const nearest_wa_color = colorClassifiers[0].classify(color, 'hex');
@@ -29,19 +90,38 @@ function init(){
 
 
 
-    colors_html += `
-      <tr style="color: ${font_color}; text-align: center;">
-        <td style="background-color: ${color}; font-family: serif;">${label}</td>
-        <td style="background-color: ${color}; font-family: serif;">${nearest_wa_name}</td>
-        <td style="background-color: ${color}; font-family: serif;">${nearest_you_name}</td>
-      </tr>
-      `;
+
+    color_list.push({
+      color: color,
+      label: label,
+      title: title,
+      wa_color: nearest_wa_color,
+      wa_name: nearest_wa_name,
+      you_color: nearest_you_color,
+      you_name: nearest_you_name,
+      hue: hue,
+      font_color: font_color,
+    });
 
   }
-  colors_html += '</table>';
-  document.getElementById('colors').innerHTML = colors_html;
+  //ランダムに並び替えてみる
+  color_list.sort(function(a, b) { return Math.random() > 0.5 ? 1 : -1; });
+  refresh_color_list();
+
 
 }
+
+//https://gimmicklog.com/jquery/376/
+$(function () {
+  $('.tooltip').hide();
+  $('td').hover(
+  function () {
+      $(this).children('.tooltip').fadeIn('fast');
+  },
+  function () {
+      $(this).children('.tooltip').fadeOut('fast');
+  });
+});
 
 const color_names = [];
 color_names[0] = 

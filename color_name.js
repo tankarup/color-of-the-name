@@ -118,7 +118,7 @@ function init(){
 
 function show_img(title){
   const encoded_query = encodeURI(title);
-  const url = `http://ja.wikipedia.org/w/api.php?origin=*&action=query&generator=images&gimlimit=10&prop=imageinfo&iiprop=url|dimensions|mime&format=json&titles=${title}`;	
+  const url = `https://ja.wikipedia.org/w/api.php?origin=*&action=query&generator=images&gimlimit=10&prop=imageinfo&iiprop=url|dimensions|mime&format=json&titles=${title}`;	
   const request = new XMLHttpRequest();
   request.open('GET', url , true);
   request.onload = function () {
@@ -169,7 +169,7 @@ function show_note(wa_name, yomi){
   document.getElementById('descriptions').innerHTML = note_html;
 
   const encoded_query = encodeURI(wa_name); //検索ワードに'色'を追加すると、刈安などは改善するが、勿忘草などは悪化する
-  const url = `http://ja.wikipedia.org/w/api.php?origin=*&format=json&action=query&list=search&srlimit=5&srsearch=${encoded_query}`;	
+  const url = `https://ja.wikipedia.org/w/api.php?origin=*&format=json&action=query&list=search&srlimit=5&srsearch=${encoded_query}`;	
   const request = new XMLHttpRequest();
   request.open('GET', url , true);
   request.onload = function () {

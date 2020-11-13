@@ -1,4 +1,5 @@
 
+
 let palettes = [];
 
 let color_list = [];
@@ -47,7 +48,7 @@ function refresh_color_list(){
     colors_html += `
     <tr style="color: ${item.font_color}; text-align: center;">
       <td style="background-color: ${item.color}; font-family: serif;">${item.label}</td>
-      <td style="background-color: ${item.color}; font-family: serif;">${item.wa_name}</td>
+      <td style="background-color: ${item.color}; font-family: serif;" ><span class="note" onclick="show_note('${item.wa_name}', '${color_names[0][item.wa_color]["よみ"]}');">${item.wa_name}</span></span></td>
       <td style="background-color: ${item.color}; font-family: serif;">${item.you_name}</td>
     </tr>
     `;
@@ -57,6 +58,8 @@ function refresh_color_list(){
 }
 
 function init(){
+
+
   init_menu();
 
   color_list  = [];
@@ -113,17 +116,90 @@ function init(){
 
 }
 
-//https://gimmicklog.com/jquery/376/
-$(function () {
-  $('.tooltip').hide();
-  $('td').hover(
-  function () {
-      $(this).children('.tooltip').fadeIn('fast');
-  },
-  function () {
-      $(this).children('.tooltip').fadeOut('fast');
-  });
+function show_img(title){
+  const encoded_query = encodeURI(title);
+  const url = `http://ja.wikipedia.org/w/api.php?origin=*&action=query&generator=images&gimlimit=10&prop=imageinfo&iiprop=url|dimensions|mime&format=json&titles=${title}`;	
+  const request = new XMLHttpRequest();
+  request.open('GET', url , true);
+  request.onload = function () {
+    data = this.response;
+    json = JSON.parse(data);
+    console.log(json);
+
+    const pages = json.query.pages;
+    const keys = Object.keys(pages);
+    for (let key of keys){
+      const img_url = pages[key].imageinfo[0].url;
+      const ext = img_url.slice(-3);
+      if (ext.toUpperCase() === 'jpg'.toUpperCase()){
+        document.getElementById('note_img').innerHTML = `<img src="${img_url}" style="max-height: 100px;">`;
+        break;
+      }
+    }
+    
+
+  }
+  request.send();
+}
+
+let generating_note = false;
+
+$("#colors").click(function(){
+  if (generating_note){
+    generating_note = false;
+    return;
+  }
+  document.getElementById('descriptions').innerHTML = '';
+  console.log("color click");
 });
+
+
+
+function show_note(wa_name, yomi){
+  console.log("note click");
+  generating_note = true;
+  let note_html = '';
+  note_html += `<p class="text-light">${wa_name}(${yomi})</p>
+  <div id="note_title"></div>
+  <table><tr>
+  <td><span id="note_img"></span></td>
+  <td><span id="note_desc" class="text-light"></span></td>
+  </tr></table>`;
+
+  document.getElementById('descriptions').innerHTML = note_html;
+
+  const encoded_query = encodeURI(wa_name); //検索ワードに'色'を追加すると、刈安などは改善するが、勿忘草などは悪化する
+  const url = `http://ja.wikipedia.org/w/api.php?origin=*&format=json&action=query&list=search&srlimit=5&srsearch=${encoded_query}`;	
+  const request = new XMLHttpRequest();
+  request.open('GET', url , true);
+  request.onload = function () {
+    data = this.response;
+    json = JSON.parse(data);
+    console.log(json);
+    const title = json.query.search;
+    for (let page of title){
+      const title = page.title;
+      if (title[0] == '色'){
+        continue;
+      }
+      const snippet = page.snippet;
+      document.getElementById('note_title').innerHTML = `<a class="text-light" href="https://ja.wikipedia.org/wiki/${title}"><u>${title} (Wikipediaより)</u></a>`;
+      document.getElementById('note_desc').innerHTML = `${snippet}...`;
+      show_img(title);
+      break;
+    }
+
+
+  }
+  request.send();
+  
+
+
+  
+  
+  
+}
+
 
 const color_names = [];
 color_names[0] = 
@@ -616,3 +692,4 @@ const idols =
 for (let i = 0; i < color_names.length; i++){
   palettes[i] = Object.keys(color_names[i]);
 }
+

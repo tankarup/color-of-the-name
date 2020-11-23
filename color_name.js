@@ -150,13 +150,13 @@ $("#colors").click(function(){
     return;
   }
   document.getElementById('descriptions').innerHTML = '';
-  console.log("color click");
+
 });
 
 
 
 function show_note(wa_name, yomi){
-  console.log("note click");
+
   generating_note = true;
   let note_html = '';
   note_html += `<p class="text-light">${wa_name}(${yomi})</p>
